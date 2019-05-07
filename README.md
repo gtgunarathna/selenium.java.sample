@@ -9,4 +9,5 @@ Selenium Java Testng sample project for quality engineering automation
 
 ## How to start
  1. Open this project using Intellij IDEA
- 2. Run Maven Install to run up to tests
+ 2. Update  \src\test\resources\config.properties file, property 'driver.location' with your browser driver(Chrome) location
+ 3. Run Maven Install to run up to tests
